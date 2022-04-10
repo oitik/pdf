@@ -1,2 +1,1 @@
-# pdf
-to do some cool stuff with pdf
+This python program can merge two pdf files. Also it can add watermark to it.
